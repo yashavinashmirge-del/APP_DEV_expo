@@ -7,7 +7,7 @@ A collection of Expo / React Native learning exercises built while working throu
 | Folder | Description |
 |---|---|
 | [`SETUP_EXPO`](./SETUP_EXPO) | Initial Expo project setup — verifying the toolchain and dev environment work end-to-end. |
-| [`MODULE02`](./MODULE02) | Module 2 exercise — building on the base setup with additional screens/components. |
+| [`COMPONENTS`](./COMPONENTS) | Module 2 exercise — building on the base setup with additional screens/components. |
 
 Each folder is an independent Expo app with its own `package.json`, `app.json`, and `app/` directory (routes), so they can be run and installed separately.
 
